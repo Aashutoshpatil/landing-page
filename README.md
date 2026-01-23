@@ -20,7 +20,7 @@ Open index.html in your browser.
 
 🔗 Live Demo
 
-👉 Add your deployed link here https://landing45.netlify.app/
+👉 Add your deployed link here https://aashutoshpatil.github.io/landing-page/
 
 📸 Screenshots
 
