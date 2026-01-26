@@ -20,7 +20,7 @@ Open index.html in your browser.
 
 🔗 Live Demo
 
-👉 Add your deployed link here https://aashutoshpatil.github.io/landing-page/
+👉 Add your deployed link here https:https://landing-page-psi-ten-59.vercel.app/
 
 📸 Screenshots
 
